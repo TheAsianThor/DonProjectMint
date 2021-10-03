@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DonProjectMint/static/css/main.70f4e0b6.chunk.css",
+    "main.js": "/DonProjectMint/static/js/main.7e456308.chunk.js",
+    "main.js.map": "/DonProjectMint/static/js/main.7e456308.chunk.js.map",
+    "runtime-main.js": "/DonProjectMint/static/js/runtime-main.35972ded.js",
+    "runtime-main.js.map": "/DonProjectMint/static/js/runtime-main.35972ded.js.map",
+    "static/js/2.1ed8ee4a.chunk.js": "/DonProjectMint/static/js/2.1ed8ee4a.chunk.js",
+    "static/js/2.1ed8ee4a.chunk.js.map": "/DonProjectMint/static/js/2.1ed8ee4a.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/DonProjectMint/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/DonProjectMint/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/DonProjectMint/index.html",
+    "static/css/main.70f4e0b6.chunk.css.map": "/DonProjectMint/static/css/main.70f4e0b6.chunk.css.map",
+    "static/js/2.1ed8ee4a.chunk.js.LICENSE.txt": "/DonProjectMint/static/js/2.1ed8ee4a.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/DonProjectMint/static/media/1.75f03515.png",
+    "static/media/reset.css": "/DonProjectMint/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35972ded.js",
+    "static/js/2.1ed8ee4a.chunk.js",
+    "static/css/main.70f4e0b6.chunk.css",
+    "static/js/main.7e456308.chunk.js"
+  ]
+}
